@@ -119,5 +119,6 @@ void removeLoop(Node* &head){
  
 int main()
 {
+    int arr[5];
  
 }
